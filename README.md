@@ -24,16 +24,14 @@
 
 ### 🏆 Features List
 - Simple Usage
-- Auto Save messages found
-- Check in All Guild, Channels, DM Channels
+- Auto Save valid token
 - Fast Checking
-- Chec 100K Messages by channels
 
 ##   
 
 ### 📸 Demos
-- #### Searching
-    <img src="https://cdn.discordapp.com/attachments/884211621986201650/888871064808079380/unknown.png">
+- #### Cheking
+    <img src="https://cdn.discordapp.com/attachments/895371136009896016/896114707696615505/2021-10-08_16-11-47.gif">
 
 ##   
 
