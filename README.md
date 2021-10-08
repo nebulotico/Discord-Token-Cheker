@@ -2,7 +2,7 @@
   <b>🔍 Follow me here 🔍</b><br>  
   <a href="https://www.youtube.com/channel/UCilF5SGSt71IqTDpGSww6Zg">YouTube</a> |
   <a href="MiDCopyPaste">Github</a><br><br>
-  <img src="https://cdn.discordapp.com/attachments/884211621986201650/888871064808079380/unknown.png" style="width: 80%">
+  <img src="https://cdn.discordapp.com/attachments/895371136009896016/896114332302192691/unknown.png" style="width: 80%">
 </p>
 
 ##  
