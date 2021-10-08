@@ -34,16 +34,8 @@
 ### 📸 Demos
 - #### Searching
     <img src="https://cdn.discordapp.com/attachments/884211621986201650/888871064808079380/unknown.png">
-- #### Searching ended
-    <img src="https://cdn.discordapp.com/attachments/884211621986201650/888875713850126417/unknown.png">
 
 ##   
-
-### 🧰 Support
-- Email: <kaneki_pro@protonmail.com>
-- Discord: https://discord.gg/jyUSstvCBH
-
-##  
 
 ### 📜 License & Warning
 - Make for education propose only !
